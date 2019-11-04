@@ -9,7 +9,7 @@ public class InstanceVariableExample {
         System.out.println(employee.id);
         System.out.println(employee.age);
 
-        employee.empName = "Raghavendra";
+        employee.empName = "JavaForTesters";
         employee.id = 143;
         employee.age = 42;
 
