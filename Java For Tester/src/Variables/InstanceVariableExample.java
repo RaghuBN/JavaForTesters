@@ -1,4 +1,4 @@
-package instanceVariables;
+package Variables;
 
 public class InstanceVariableExample {
 	public static void main(String[] args) {
