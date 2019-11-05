@@ -22,5 +22,7 @@ public class CreateHashSetExample {
         daysOfWeek.add("Saturday");
         daysOfWeek.add("Sunday");
         System.out.println(daysOfWeek);
+        
+        
     }
 }
